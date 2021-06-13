@@ -1,0 +1,16 @@
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.exe
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.deps.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\ref\Homework7.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\bin\Debug\net5.0\Homework7.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\ref\Homework7.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Homework7\obj\Debug\net5.0\Homework7.genruntimeconfig.cache
